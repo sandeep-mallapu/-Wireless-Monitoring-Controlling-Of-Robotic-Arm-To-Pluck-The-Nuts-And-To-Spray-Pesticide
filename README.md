@@ -1,0 +1,2 @@
+# -Wireless-Monitoring-Controlling-Of-Robotic-Arm-To-Pluck-The-Nuts-And-To-Spray-Pesticide
+In this project we have created a robotic arm using 8051 micro controller, which has both transmitter and receiver module, with that we can monitor &amp; control the wireless robotic arm. The use of this robotic arm is to pluck the nuts &amp; to spray pesticide in Agriculture field, by this a lot of human effort is reduced
